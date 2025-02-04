@@ -1,21 +1,5 @@
 # Welcome to Berry Edition
 
-<pre>
-                                                       /\  /\
-                                                      /  ''  \
-                                                     / .o\  ..\
-                                                    /.'  |\ | '.
-              __                                    '    |_\|
-              \ \___     .__                             |_|<o>
-            .--""___\..--"/                              |_| |
-        .__.|-"""..... ' /                          _____|_|_|\__
-________\_______________/______________________..-'::::::::::::::::-..___
-                                              '''""""""""""""""'''
-            ~       ~           ~        ~                  ~
-       ~                     ~                   ~       ~
-  ~                 ~                  ~                         ~
-</pre>
-
 ## About Us
 **Berry Edition** is an organization dedicated to pushing the boundaries of creativity, programmation and independent innovation.
 
