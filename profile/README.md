@@ -1,9 +1,12 @@
 # Welcome to Berry Edition
 
 ## About Us
-**Berry Edition** is an organization dedicated to creativity, programmation and independence.
+**Berry Edition** is a creative and independent organization for developers.  
+We are passionate about building engaging digital experiences, pushing the boundaries of technology, and fostering innovation.
 
-We mosly focus on WEB and Game Design.
+## Our Mission
+We aim to create high-quality, inspiring projects while promoting a culture of creativity, integrity, and independence.
 
-## Our motto
-Don't be evil. And if we ever remove this motto, it's because we are evil now. 
+## Our Motto
+> *"Don't be evil."*  
+If this motto ever disappears, consider it a warning.
